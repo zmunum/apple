@@ -1,0 +1,26 @@
+/* webfonts */
+@font-face {
+  font-family: "EncodeSans";
+  font-weight: 300;
+  src: url(../fonts/EncodeSans-Light.ttf);
+}
+@font-face {
+  font-family: "EncodeSans";
+  font-weight: 400;
+  src: url(../fonts/EncodeSans-Regular.ttf);
+}
+@font-face {
+  font-family: "EncodeSans";
+  font-weight: 500;
+  src: url(../fonts/EncodeSans-Medium.ttf);
+}
+@font-face {
+  font-family: "EncodeSans";
+  font-weight: 600;
+  src: url(../fonts/EncodeSans-SemiBold.ttf);
+}
+@font-face {
+  font-family: "EncodeSans";
+  font-weight: 600;
+  src: url(../fonts/EncodeSans-Bold.ttf);
+}
